@@ -1,0 +1,3 @@
+﻿  ПрограмЗабезпеч2.2.cpp
+C:\Users\Vitaly\source\repos\ПрограмЗабезпеч2.2\ПрограмЗабезпеч2.2\ПрограмЗабезпеч2.2.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ПрограмЗабезпеч2.2.vcxproj -> C:\Users\Vitaly\source\repos\ПрограмЗабезпеч2.2\x64\Debug\ПрограмЗабезпеч2.2.exe
